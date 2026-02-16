@@ -1,48 +1,72 @@
-# 🌸 Picnic Park — Roblox Game
+# 🌸 Picnic Park — Cozy Roblox Experience
 
-A relaxing Roblox game where players explore a beautiful picnic park filled with trees, flowers, and cozy nature vibes.
-Players can collect items, sell goods, and enjoy a peaceful multiplayer experience.
+![Roblox](https://img.shields.io/badge/Platform-Roblox-red?style=for-the-badge\&logo=roblox)
+![Lua](https://img.shields.io/badge/Language-Lua-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Development-green?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Purpose-Portfolio%20Project-purple?style=for-the-badge)
+
+A cozy and relaxing Roblox game where players explore a peaceful picnic park filled with nature, flowers, and calming vibes.
+Designed as both a learning project and a portfolio-ready game with clean architecture and modular scripting.
 
 ---
 
-## 🎮 About the Game
+## 🌿 Overview
 
-**Picnic Park** is a chill Roblox experience designed for relaxation and casual gameplay.
-Inspired by cozy games, players can wander through a vibrant park, gather items like flowers or fruits, and sell them for in-game currency.
+**Picnic Park** is a nature-themed Roblox experience focused on relaxation and casual gameplay.
+Players can explore a vibrant park, collect natural items, sell them, and enjoy a calm multiplayer environment.
 
-The goal is to create a calming environment where players can:
+This project emphasizes:
 
-* Relax 🌿
-* Explore nature 🌼
-* Earn money casually 💰
+* Clean code architecture 🧠
+* Modular Roblox scripting 🧩
+* Collaborative development 🤝
+* GitHub-based portfolio building 📈
+
+---
+
+## 🎮 Core Gameplay
+
+* 🌼 Explore a cozy nature park
+* 🌸 Collect flowers and items
+* 🧺 Sell goods for in-game money
+* 🌿 Relax with friends in a peaceful world
+
+Aimed at delivering **cozy game vibes** similar to relaxing sandbox experiences.
 
 ---
 
 ## ✨ Features
 
-* 💰 **Money System**
-  Players start with default currency and can earn more by selling items.
+### ✅ Implemented
 
-* 🎒 **Inventory System (WIP)**
-  Store collected flowers, fruits, and picnic items.
+* 💰 Basic Money System
+* 📁 Modular project structure
+* 📚 GitHub-based version control
 
-* 🧺 **Selling System (Planned)**
-  Sell items at designated spots inside the park.
+### 🚧 In Progress
 
-* 🌸 **Nature-Themed World**
-  Cozy picnic environment with flowers, trees, and relaxing vibes.
+* 🎒 Inventory system
+* 🌸 Collectible items
+* 🧺 Selling mechanics
 
-* 👥 **Multiplayer Friendly**
-  Designed to be enjoyed with friends.
+### 🔮 Planned
+
+* 🏪 NPC interactions
+* 💾 Data saving
+* 🎵 Ambient sound design
+* 🌄 Aesthetic map polishing
 
 ---
 
 ## 🛠 Tech Stack
 
-* 🎮 Roblox Studio (Lua)
-* 📁 GitHub for version control
-* 🧠 Modular scripting architecture
-* 🌿 Clean and beginner-friendly code structure
+| Category        | Tools                   |
+| --------------- | ----------------------- |
+| Engine          | Roblox Studio           |
+| Language        | Lua                     |
+| Version Control | Git + GitHub            |
+| Architecture    | Modular scripting       |
+| Goal            | Portfolio-grade project |
 
 ---
 
@@ -50,73 +74,115 @@ The goal is to create a calming environment where players can:
 
 ```
 scripts/
- ├── server/   # Server-side logic
- ├── client/   # UI & player input
- └── shared/   # Shared modules
+ ├── server/    # Server-side systems (economy, gameplay logic)
+ ├── client/    # UI, camera, player interaction
+ └── shared/    # Shared modules & utilities
 
-assets/        # Images, UI, thumbnails
-docs/          # Devlogs and design notes
+assets/         # UI, thumbnails, images
+docs/           # Devlogs & architecture notes
 ```
 
 ---
 
-## 🚀 Roadmap
+## 🧠 Architecture Philosophy
 
-### Phase 1 — Core Systems
+This project follows a **clean and scalable scripting approach**:
 
+* Separation of server & client logic
+* Reusable modules
+* Beginner-friendly but scalable design
+* Portfolio-oriented code organization
+
+Built to simulate real-world game dev workflows.
+
+---
+
+## 🚀 Development Roadmap
+
+### Phase 1 — Foundation
+
+* [x] Project setup
 * [x] Money system
 * [ ] Inventory system
 * [ ] Item collecting
 
 ### Phase 2 — Gameplay
 
-* [ ] Selling items
-* [ ] NPC interaction
-* [ ] Map decoration
+* [ ] Selling mechanics
+* [ ] NPC system
+* [ ] World building
 
-### Phase 3 — Polishing
+### Phase 3 — Polish
 
-* [ ] Data saving
-* [ ] UI improvements
-* [ ] Sound & ambience
+* [ ] Data persistence
+* [ ] UI polish
+* [ ] Audio & ambience
+* [ ] Optimization
 
 ---
 
 ## 📸 Screenshots
 
-> Coming soon...
+> Coming soon — gameplay previews will be added during development.
 
 ---
 
-## 📖 Devlog
+## 📖 Devlogs
 
-Progress and development notes will be documented inside the `docs/` folder.
+Development notes and progress logs are stored inside:
+
+```
+docs/
+```
+
+Each milestone and system design will be documented for transparency and learning purposes.
 
 ---
 
 ## 🤝 Collaboration
 
-This project is developed as a collaborative Roblox game and open portfolio project.
-Contributions, ideas, and feedback are welcome.
+This project is built as a **collaborative Roblox development experience**.
+Open for:
+
+* Feedback
+* Ideas
+* Learning references
 
 ---
 
-## ⭐ Purpose of This Project
+## 🎯 Project Goals
 
-This project is built for:
+* 📈 Build a strong GitHub portfolio
+* 🎮 Learn Roblox game architecture
+* 🧠 Practice clean coding principles
+* 🤝 Develop collaborative workflows
 
-* 🎯 Learning Roblox game development
-* 📈 Building a strong GitHub portfolio
-* 🤝 Collaborative development experience
+---
+
+## 🌟 Why This Project Exists
+
+Most beginner Roblox projects skip:
+
+* Version control
+* Architecture planning
+* Documentation
+
+This project focuses on doing things **the professional way**, even as a learning journey.
 
 ---
 
 ## 📜 License
 
-This project is open for learning and portfolio purposes.
+This repository is intended for:
+
+* Learning
+* Portfolio building
+* Educational reference
 
 ---
 
-## 🌿 Author
+## 👨‍💻 Author
 
-Built with passion for cozy games and clean code.
+Built with passion for cozy games, clean architecture, and continuous learning.
+
+> "Build small, build clean, build consistently."
