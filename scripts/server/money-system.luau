@@ -1,10 +1,10 @@
--- Money System (Server)
+--!strict
 
 local Players = game:GetService("Players")
 
-local DEFAULT_MONEY = 100
+local DEFAULT_MONEY: number = 100
 
-local function leaderstats(player)
+local function leaderstats(player: Player)
     local folder = Instance.new("Folder")
     folder.Name = "leaderstats"
     folder.Parent = player
