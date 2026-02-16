@@ -1,7 +1,7 @@
 # 🌸 Picnic Park — Cozy Roblox Experience
 
 ![Roblox](https://img.shields.io/badge/Platform-Roblox-red?style=for-the-badge\&logo=roblox)
-![Lua](https://img.shields.io/badge/Language-Lua-blue?style=for-the-badge)
+![Luau](https://img.shields.io/badge/Language-Luau-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Development-green?style=for-the-badge)
 ![Portfolio](https://img.shields.io/badge/Purpose-Portfolio%20Project-purple?style=for-the-badge)
 
@@ -60,13 +60,13 @@ Aimed at delivering **cozy game vibes** similar to relaxing sandbox experiences.
 
 ## 🛠 Tech Stack
 
-| Category        | Tools                   |
-| --------------- | ----------------------- |
-| Engine          | Roblox Studio           |
-| Language        | Lua                     |
-| Version Control | Git + GitHub            |
-| Architecture    | Modular scripting       |
-| Goal            | Portfolio-grade project |
+| Category        | Tools                                |
+| --------------- | ------------------------------------ |
+| Engine          | Roblox Studio                        |
+| Language        | **Luau (Roblox scripting language)** |
+| Version Control | Git + GitHub                         |
+| Architecture    | Modular scripting                    |
+| Goal            | Portfolio-grade project              |
 
 ---
 
@@ -93,7 +93,7 @@ This project follows a **clean and scalable scripting approach**:
 * Beginner-friendly but scalable design
 * Portfolio-oriented code organization
 
-Built to simulate real-world game dev workflows.
+Built to simulate real-world Roblox development workflows.
 
 ---
 
